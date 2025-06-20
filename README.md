@@ -36,4 +36,4 @@ Crie uma página HTML contendo:
 ## 📁 Imagens
 As imagens estão disponíveis na pasta deste desafio no repositório GitHub do curso. Use imagens e ícones de diferentes tamanhos e formatos — escolha com sabedoria! 😉 <br>
 
-🔗 Repositório do Curso
+🔗 [Repositório do Curso](https://github.com/gustavoguanabara/html-css/tree/master/desafios/modulo-01/d002).]
